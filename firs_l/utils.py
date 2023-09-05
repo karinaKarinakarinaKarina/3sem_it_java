@@ -5,3 +5,4 @@ def cube(x):
     return x * x * x
 
 print(cube(10))
+print(square(5))
